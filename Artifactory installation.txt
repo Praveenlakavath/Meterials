@@ -4,3 +4,7 @@
    sudo yum update && sudo yum install jfrog-artifactory-oss
    systemctl start artifactory.service
    systemctl status artifactory.service
+
+
+
+strep 2: take the ip of the instance and    ip:8081   or ip;8082
